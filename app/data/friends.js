@@ -1,8 +1,8 @@
 // Data for all possible friends.
 
 let friends = [{
-    name: "Drake",
-    photo: "https://www.sohh.com/wp-content/uploads/Drake-Starbucks.jpg",
+    name: "Randy Moss",
+    photo: "https://www.sbnation.com/nfl/2018/8/3/17642938/randy-moss-nfl-hall-of-fame-receiver",
     scores: [
         "4",
         "4",
@@ -17,8 +17,8 @@ let friends = [{
     ]
 },
 {
-    name: "Carrie Underwood",
-    photo: "http://img1.nickiswift.com/img/uploads/2018/01/Carrie-Underwood-awards-780x438_rev1.jpg",
+    name: "Oprah",
+    photo: "https://www.gettyimages.com/event/greenleaf-629065573#oprah-winfrey-attends-the-tribeca-tune-in-greenleaf-at-bmcc-john-on-picture-id522699698",
     scores: [
         "4",
         "3",
@@ -33,8 +33,8 @@ let friends = [{
     ]
 },
 {
-    name: "Rihanna",
-    photo: "https://www.grammy.com/sites/com/files/styles/image_landscape_hero/public/rihanna_hero_860988414.jpg?itok=19uouPfl",
+    name: "De niro",
+    photo: "https://www.gettyimages.com/event/premiere-of-women-walks-ahead-at-2018-tribeca-film-festival-775153374#robert-de-niro-attends-the-directtv-premiere-of-women-walks-ahead-at-picture-id951342512",
     scores: [
         "3",
         "3",
@@ -49,8 +49,8 @@ let friends = [{
     ]
 },
 {
-    name: "Beyoncè",
-    photo: "http://preen.inquirer.net/files/2017/08/beyonce_nala_lion-king-e1502240711591.jpg",
+    name: "jake Gyllenhaal",
+    photo: "https://www.gettyimages.com/event/premiere-of-women-walks-ahead-at-2018-tribeca-film-festival-775153374#robert-de-niro-attends-the-directtv-premiere-of-women-walks-ahead-at-picture-id951342512",
     scores: [
         "5",
         "2",
@@ -65,8 +65,8 @@ let friends = [{
     ]
 },
 {
-    name: "Nick Jonas",
-    photo: "https://i.pinimg.com/originals/6b/93/ca/6b93ca4b06461f2b83d3222bcc696ea7.jpg",
+    name: "Mickey Guyton",
+    photo: "https://www.gettyimages.com/event/winter-tca-portraits-689443013#mickey-guyton-from-pbss-american-masters-patsy-cline-poses-in-the-picture-id638841344",
     scores: [
         "4",
         "2",
@@ -81,8 +81,8 @@ let friends = [{
     ]
 },
 {
-    name: "Hot Cheetos",
-    photo: "https://i5.walmartimages.com/asr/ded9103a-8485-4578-9b05-62d0dd8284e8_1.befbfe10d0ba9ae2c56d3ebfd7e56811.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    name: "James Franco",
+    photo: "https://www.gettyimages.com/event/spike-tvs-10th-annual-guys-choice-awards-show-644235575#honoree-james-franco-accepts-virtuoso-awards-onstage-during-spike-tvs-picture-id538204338",
     scores: [
         "5",
         "1",
